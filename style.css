@@ -1,0 +1,79 @@
+.main{
+    min-height: 1200px;
+    background-image:url('/media/bg2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    .h_img{
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: 40px;
+    background-image: url('/media/img.jpg');
+    background-size: cover;
+}
+.p{
+    font-size: 19px;
+    text-align: center;
+    color: #adff4f;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.stk{
+    text-align: center;
+    color: bisque;
+    letter-spacing: 3px;
+    text-decoration: underline 0.5px    ;
+}
+.r1{
+    min-height: 87px;
+    background: rgba(8, 41, 30, 0.355);
+    text-align: center;margin-top: 10px;
+    border-radius: 5px;
+    float: left;            
+}
+.heading{
+    color: rgb(255, 218, 8);
+    font-size: 13px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
+.content{
+    color: rgb(228, 255, 188);
+    font-size: 12px;
+    letter-spacing: 0.5px;
+}
+.icon1{
+    height:25px;
+    width: 25px;
+    margin:10px 10px 0px 5px;
+    float: left;
+}
+.r2{
+    min-height: 57px;
+    width: 100%;
+    background: rgba(8, 41, 30, 0.355);
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    float: left;            
+}
+.icon2{
+    height:25px;
+    width: 25px;
+    margin:25px 10px 0px 5px;
+    float: left;
+}
+.icon3{
+    height:25px;
+    width: 25px;
+    margin:15px 10px 0px 5px;
+    float: left;
+}
+.icon4{
+    height:25px;
+    width: 25px;
+    margin:8px 10px 0px 5px;
+    float: left;
+}
